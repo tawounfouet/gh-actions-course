@@ -1,6 +1,6 @@
 
 
-# Github Actions Course
+# Github Actions Course - Edited
 
 ```sh
 touch .gitignore
