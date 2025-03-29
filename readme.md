@@ -20,5 +20,6 @@ touch 01-building-blocks.yml
 
 
 # git commit -m " 02-Workflow-Events: first version of the workflow file"
+# git commit -m " 02-Workflow-Events: add more triggers to the workflow file"
 ```
 
